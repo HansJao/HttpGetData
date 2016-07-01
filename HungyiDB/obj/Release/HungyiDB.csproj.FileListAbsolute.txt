@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HttpGetData\HungyiDB\bin\Release\HungyiDB.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HttpGetData\HungyiDB\obj\Release\HungyiDB.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HttpGetData\HungyiDB\obj\Release\HungyiDB.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HttpGetData\HungyiDB\bin\Release\HungyiDB.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HttpGetData\HungyiDB\bin\Release\HungyiDB.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HttpGetData\HungyiDB\obj\Release\HungyiDB.dll
